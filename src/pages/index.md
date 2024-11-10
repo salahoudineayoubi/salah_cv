@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/Layout.astro"
-name: Salah
+name: 
 image: "./avatar_hat.jpg"
 function: Full Stack Developer & Designer
 address: Yaoundé, Cameroon
